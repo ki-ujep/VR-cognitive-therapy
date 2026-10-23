@@ -1,5 +1,5 @@
 <div VR-cognitive-therapyalign="center">
-  <h1 align="center">VR cognitive therapy</h1>
+  <h1 align="center">VR Cognitive therapy</h1>
 
   <p align="center">
     Kognitivní terapie ve virtální realitě
@@ -11,32 +11,8 @@
 </div>
 
 ## O projektu
-Využití virtuálních technologií pro pacienty se zhoršenými kognitivními funkcemi. Cíl projektu je možnost terapie ve virtuálním světe, kde pacient bude rozpoznávat obrázky, dle kterých se bude dále posouvat v místnostech.
+Aplikace pro kognitivní terapii využívající virtuální realitu (VR). Projekt se zaměřuje na podporu a trénink kognitivních funkcí prostřednictvím interaktivních úloh ve virtuálním prostředí.
 
-Čeho chceme dosáhnout:
-* Základní pohyb ve VR
-* Vytvoření místnosti/bludiště
-* Meření a pozorování pohybu očí
+Aplikace umožňuje realizaci terapeutických sezení, zaznamenávání výsledků a sledování průběhu kognitivního tréninku. Důraz je kladen na intuitivní ovládání, komfort pacientů, bezpečné zpracování dat a spolehlivý provoz v klinickém prostředí.
 
-### Sestaveno pomocí
-
-* [Unity game engine](https://unity3d.com/)
-
-## Pro začátek
-
-### Předpoklady
-
-Nainstalovaný Unity Editor verze `2021.3.11f1` s Android modulem (pro Oculus) \
-Nainstalovaný https://git-lfs.com/
-
-### Instalace
-```
-git clone https://github.com/AnnaTrejdlova/VR-cognitive-therapy
-cd VR-cognitive-therapy
-git lfs install
-```
-
-### Windows
-1. Stáhnout zip [zde](https://github.com/AnnaTrejdlova/VR-cognitive-therapy/releases/latest)
-2. Extrahovat do složky
-3. Spustit `.exe` soubor
+Řešení je vyvíjeno v rámci výzkumného projektu DIGITCECH Univerzity Jana Evangelisty Purkyně v Ústí nad Labem ve spolupráci s odborníky z oblasti zdravotnictví a informatiky.
