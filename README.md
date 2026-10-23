@@ -4,10 +4,6 @@
   <p align="center">
     Kognitivní terapie ve virtální realitě
   </p>
-  <p align="center">
-    <a href="https://annatrejdlova.github.io/VR-cognitive-therapy/">Live demo</a>
-  </p>
-  <br>
 </div>
 
 ## O projektu
